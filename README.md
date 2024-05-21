@@ -33,7 +33,7 @@ as Project lead.
 
 ### PrimeBuild
 [Repository link](https://github.com/SherwinSaga/PrimeBuild) |
-[Sample images link]([https://sherwinsaga.github.io/portfolio/](https://drive.google.com/drive/folders/1FvKagn-Le5xZCypHXkMkwb6hK8fRsQXK?usp=sharing))
+[Sample images link](https://drive.google.com/drive/folders/1FvKagn-Le5xZCypHXkMkwb6hK8fRsQXK?usp=sharing)
 
 Primebuild is an E-commerce mobile application for hardware. Similar to grabfood and foodpanda but for hardware.
 This is purely a concept and only front end functional. Built using android studio.
