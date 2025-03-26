@@ -1,6 +1,6 @@
 # Software Developer
 
-### Technical Skills: Java, JavaScript, C, C#, C++, Python
+### Technical Skills: Java, JavaScript, C#, C++, Python, .NET, Django
 
 ## Education
 - Bachelor of Science in Computer Science | Cebu Institute of Technology - University (_2021-present_)
